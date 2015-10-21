@@ -18,3 +18,11 @@ Just some random collection
 |TeamCity.png|![TeamCity.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/TeamCity.png)|
 |toilet.png|![toilet.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/toilet.png)|
 |mindblown.gif|![mindblown.gif](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/mindblown.gif)|
+
+# Contributing
+
+Have a cool image to add? **__Together we can change the world!__**
+* Fork repo
+* Add your image to the root
+* Run `Rake` to generate some previews
+* Open a pull request
