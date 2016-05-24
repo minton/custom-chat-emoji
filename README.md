@@ -7,6 +7,7 @@ Just some random collection
 |badger.png|![badger.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/badger.png)|
 |branch.png|![branch.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/branch.png)|
 |brb-15.png|![brb-15.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/brb-15.png)|
+|brb-lunch.png|![brb-lunch.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/brb-lunch.png)|
 |brb.png|![brb.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/brb.png)|
 |coding.png|![coding.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/coding.png)|
 |creeper.png|![creeper.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/creeper.png)|
