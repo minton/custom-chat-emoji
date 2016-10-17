@@ -17,7 +17,7 @@ Just some random collection
 |indeed.png|![indeed.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/indeed.png)|
 |sadpanda.png|![sadpanda.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/sadpanda.png)|
 |success.png|![success.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/success.png)|
-|TeamCity.png|![TeamCity.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/TeamCity.png)|
+|teamcity.png|![teamcity.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/teamcity.png)|
 |toilet.png|![toilet.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/toilet.png)|
 |mindblown.gif|![mindblown.gif](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/mindblown.gif)|
 
