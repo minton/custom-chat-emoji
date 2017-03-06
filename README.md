@@ -15,6 +15,7 @@ Just some random collection
 |gosh.png|![gosh.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/gosh.png)|
 |grumpycat.png|![grumpycat.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/grumpycat.png)|
 |indeed.png|![indeed.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/indeed.png)|
+|lol.png|![lol.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/lol.png)|
 |sadpanda.png|![sadpanda.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/sadpanda.png)|
 |success.png|![success.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/success.png)|
 |teamcity.png|![teamcity.png](https://raw.githubusercontent.com/minton/custom-slack-emoji/master/teamcity.png)|
